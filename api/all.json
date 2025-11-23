@@ -1,213 +1,252 @@
 [
   {
     "id": 1,
-    "name": "A-Bomb",
-    "slug": "1-a-bomb",
+    "name": "Corvineo",
+    "slug": "1-corvineo",
     "powerstats": {
-      "intelligence": 38,
+      "intelligence": 1000,
       "strength": 100,
-      "speed": 17,
-      "durability": 80,
-      "power": 24,
-      "combat": 64
+      "speed": 1000,
+      "durability": 1000,
+      "power": 10000,
+      "combat": 500
     },
     "appearance": {
-      "gender": "Male",
-      "race": "Human",
+      "gender": "Masculino",
+      "race": "Híbrido Divino",
       "height": [
         "6'8",
-        "203 cm"
+        "182 cm"
       ],
       "weight": [
-        "980 lb",
-        "441 kg"
+        "198 lb",
+        "90 kg"
       ],
-      "eyeColor": "Yellow",
-      "hairColor": "No Hair"
+      "eyeColor": "Preto",
+      "hairColor": "Sem cabelo"
     },
     "biography": {
-      "fullName": "Richard Milhouse Jones",
-      "alterEgos": "No alter egos found.",
+      "description": "Corvineo é o deus corvo do multiverso Nordex, sendo uma entidade onipresente que guia e aconselha os seres vivos em sua jornada. Ele é conhecido por sua sabedoria infinita e sua capacidade de ver além das limitações do tempo e espaço. Corvineo é uma figura enigmática, muitas vezes aparecendo em momentos cruciais para oferecer orientação e apoio. Sua presença é sentida em todos os cantos do multiverso, e ele é reverenciado por muitos como um símbolo de conhecimento e proteção.",
+      "fullName": "Corvineo",
+      "alterEgos": "Sem alter egos encontrados.",
       "aliases": [
-        "Rick Jones"
+        "Sem aliados encontrados."
       ],
-      "placeOfBirth": "Scarsdale, Arizona",
-      "firstAppearance": "Hulk Vol 2 #2 (April, 2008) (as A-Bomb)",
-      "publisher": "Marvel Comics",
-      "alignment": "good"
+      "placeOfBirth": "Desconhecido",
+      "firstAppearance": "Desconhecido",
+      "publisher": "Nordex Studios",
+      "alignment": "Neutro"
     },
     "work": {
-      "occupation": "Musician, adventurer, author; formerly talk show host",
+      "occupation": "Corvo, Conselheiro, deus, multiversal; Onipresente",
       "base": "-"
     },
     "connections": {
-      "groupAffiliation": "Hulk Family; Excelsior (sponsor), Avengers (honorary member); formerly partner of the Hulk, Captain America and Captain Marvel; Teen Brigade; ally of Rom",
-      "relatives": "Marlo Chandler-Jones (wife); Polly (aunt); Mrs. Chandler (mother-in-law); Keith Chandler, Ray Chandler, three unidentified others (brothers-in-law); unidentified father (deceased); Jackie Shorr (alleged mother; unconfirmed)"
+      "groupAffiliation": "Nenhum",
+      "relatives": "Todos os seres vivos do multiverso"
     },
     "images": {
-      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/1-a-bomb.jpg",
-      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/1-a-bomb.jpg",
-      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/1-a-bomb.jpg",
-      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/1-a-bomb.jpg"
+      "md": "https://cdn.jsdelivr.net/gh/GustavoFelicianoBritto/NordexMultiversoDP@v1.0.0/api/images/md/1-corvineo.jpg"
     }
   },
   {
     "id": 2,
-    "name": "Abe Sapien",
-    "slug": "2-abe-sapien",
+    "name": "Homeless",
+    "slug": "2-homeless",
     "powerstats": {
-      "intelligence": 88,
-      "strength": 28,
-      "speed": 35,
-      "durability": 65,
-      "power": 100,
-      "combat": 85
+      "intelligence": 85,
+      "strength": 95,
+      "speed": 60,
+      "durability": 90,
+      "power": 80,
+      "combat": 120
     },
     "appearance": {
-      "gender": "Male",
-      "race": "Icthyo Sapien",
+      "gender": "Masculino",
+      "race": "Humano",
       "height": [
-        "6'3",
-        "191 cm"
+        "5'7",
+        "175 cm"
       ],
       "weight": [
-        "145 lb",
-        "65 kg"
+        "187 lb",
+        "85 kg"
       ],
-      "eyeColor": "Blue",
-      "hairColor": "No Hair"
+      "eyeColor": "Desconhecido",
+      "hairColor": "Desconhecido"
     },
     "biography": {
-      "fullName": "Abraham Sapien",
-      "alterEgos": "No alter egos found.",
+      "description": "Homeless é um herói urbano marcado por uma tragédia pessoal: ele usa como capacete o crânio de seu cachorro falecido, fiel companheiro que morreu ao ingerir uma comida envenenada destinada ao próprio Homeless enquanto vivia em situação de rua. Desde então, movido pela dor e pelo desejo de justiça, Homeless luta incansavelmente contra a corporação responsável pelo crime, que busca destruir a praça onde ele vivia para construir um novo shopping. Sua aparência desleixada esconde habilidades extraordinárias e uma determinação inabalável em proteger os vulneráveis e impedir que a injustiça prevaleça nas ruas da cidade.",
+      "fullName": "Homeless",
+      "alterEgos": "Sem alter egos encontrados.",
       "aliases": [
-        "Langdon Everett Caul",
-        "Abraham Sapien",
-        "Langdon Caul"
+        "Sem aliados encontrados."
       ],
-      "placeOfBirth": "-",
-      "firstAppearance": "Hellboy: Seed of Destruction (1993)",
-      "publisher": "Dark Horse Comics",
-      "alignment": "good"
+      "placeOfBirth": "Desconhecido",
+      "firstAppearance": "Desconhecido",
+      "publisher": "Nordex Studios - Universo realista",
+      "alignment": "Bom / vigilante"
     },
     "work": {
-      "occupation": "Paranormal Investigator",
-      "base": "-"
+      "occupation": "Vigilante urbano",
+      "base": "Ruas da cidade"
     },
     "connections": {
-      "groupAffiliation": "Bureau for Paranormal Research and Defense",
-      "relatives": "Edith Howard (wife, deceased)"
+      "groupAffiliation": "Nenhum",
+      "relatives": "Nenhum"
     },
     "images": {
-      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/2-abe-sapien.jpg",
-      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/2-abe-sapien.jpg",
-      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/2-abe-sapien.jpg",
-      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/2-abe-sapien.jpg"
+      "md": "https://cdn.jsdelivr.net/gh/GustavoFelicianoBritto/NordexMultiversoDP@v1.0.0/api/images/md/2-homeless.jpg"
     }
   },
   {
     "id": 3,
-    "name": "Abin Sur",
-    "slug": "3-abin-sur",
+    "name": "Desconhecido",
+    "slug": "3-desconhecido",
     "powerstats": {
-      "intelligence": 50,
-      "strength": 90,
-      "speed": 53,
-      "durability": 64,
-      "power": 99,
-      "combat": 65
+      "intelligence": 130,
+      "strength": 65,
+      "speed": 85,
+      "durability": 70,
+      "power": 95,
+      "combat": 90
     },
     "appearance": {
-      "gender": "Male",
-      "race": "Ungaran",
+      "gender": "Masculino",
+      "race": "Humano",
       "height": [
-        "6'1",
-        "185 cm"
+        "5'5",
+        "165 cm"
       ],
       "weight": [
-        "200 lb",
-        "90 kg"
+        "154 lb",
+        "70 kg"
       ],
-      "eyeColor": "Blue",
-      "hairColor": "No Hair"
+      "eyeColor": "Castanho",
+      "hairColor": "Castanho escuro"
     },
     "biography": {
-      "fullName": "",
-      "alterEgos": "No alter egos found.",
+      "description": "Desconhecido é um habilidoso hacker que sobrevive em uma cidade distópica completamente monitorada por câmeras de uma corporação autoritária que controla todos os aspectos da vida urbana. Mestre em parkour, ele utiliza suas habilidades acrobáticas para se mover rapidamente pelos becos, telhados e estruturas da cidade, escapando dos olhos eletrônicos e patrulhas automatizadas. Sua identidade permanece um mistério, e ele é conhecido por invadir sistemas da empresa, sabotando operações e ajudando cidadãos oprimidos a recuperar sua liberdade em meio ao regime de vigilância total.",
+      "fullName": "Desconhecido",
+      "alterEgos": "Informação confidencial.",
       "aliases": [
-        "Lagzia"
+        "Informação confidencial."
       ],
-      "placeOfBirth": "Ungara",
-      "firstAppearance": "Showcase #22 (October, 1959)",
-      "publisher": "DC Comics",
-      "alignment": "good"
+      "placeOfBirth": "Informação confidencial.",
+      "firstAppearance": "Informação confidencial.",
+      "publisher": "Nordex Studios - Universo realista",
+      "alignment": "Informação confidencial."
     },
     "work": {
-      "occupation": "Green Lantern, former history professor",
-      "base": "Oa"
+      "occupation": "Informação confidencial.",
+      "base": "Informação confidencial."
     },
     "connections": {
-      "groupAffiliation": "Green Lantern Corps, Black Lantern Corps",
-      "relatives": "Amon Sur (son), Arin Sur (sister), Thaal Sinestro (brother-in-law), Soranik Natu (niece)"
+      "groupAffiliation": "Nenhum",
+      "relatives": "Nenhum"
     },
     "images": {
-      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/3-abin-sur.jpg",
-      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/3-abin-sur.jpg",
-      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/3-abin-sur.jpg",
-      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/3-abin-sur.jpg"
+      "md": "https://cdn.jsdelivr.net/gh/GustavoFelicianoBritto/NordexMultiversoDP@v1.0.0/api/images/md/3-unknow.jpg"
     }
   },
   {
     "id": 4,
-    "name": "Abomination",
-    "slug": "4-abomination",
+    "name": "Gangue Italidense",
+    "slug": "4-italidense",
     "powerstats": {
-      "intelligence": 63,
-      "strength": 80,
-      "speed": 53,
-      "durability": 90,
-      "power": 62,
-      "combat": 95
+      "intelligence": 60,
+      "strength": 55,
+      "speed": 50,
+      "durability": 45,
+      "power": 30,
+      "combat": 65
     },
     "appearance": {
-      "gender": "Male",
-      "race": "Human / Radiation",
+      "gender": "Variado",
+      "race": "Humanos",
       "height": [
-        "6'8",
-        "203 cm"
+        "Variado",
+        "Variado"
       ],
       "weight": [
-        "980 lb",
-        "441 kg"
+        "Variado",
+        "Variado"
       ],
-      "eyeColor": "Green",
-      "hairColor": "No Hair"
+      "eyeColor": "Desconhecido",
+      "hairColor": "Desconhecido"
     },
     "biography": {
-      "fullName": "Emil Blonsky",
-      "alterEgos": "No alter egos found.",
+      "description": "A Gangue Italidense é um grupo criminoso urbano que atua nas ruas da fictícia Vila Bela, misturando tradições da máfia italiana com um visual marcante de fantasias roxas e verdes inspiradas na cultura italiana. Conhecidos por sua organização e códigos de honra próprios, os membros da gangue comandam operações de extorsão, contrabando e jogos ilegais, sempre mantendo uma presença extravagante e teatral. Suas ações são notórias tanto pela eficiência quanto pelo estilo, tornando-os figuras temidas e reconhecidas no submundo da cidade.",
+      "fullName": "Gangue Italidense",
+      "alterEgos": "Sem alter egos encontrados.",
       "aliases": [
-        "Agent R-7",
-        "Ravager of Worlds"
+        "Sem aliados encontrados."
       ],
-      "placeOfBirth": "Zagreb, Yugoslavia",
-      "firstAppearance": "Tales to Astonish #90",
-      "publisher": "Marvel Comics",
-      "alignment": "bad"
+      "placeOfBirth": "Cidade Vila Bela",
+      "firstAppearance": "Desconhecido",
+      "publisher": "Nordex Studios - Universo fantasia",
+      "alignment": "Neutro / criminoso"
     },
     "work": {
-      "occupation": "Ex-Spy",
-      "base": "Mobile"
+      "occupation": "Criminosos organizados",
+      "base": "Vila Bela"
     },
     "connections": {
-      "groupAffiliation": "former member of the crew of the Andromeda Starship, ally of the Abominations and Forgotten",
-      "relatives": "Nadia Dornova Blonsky (wife, separated)"
+      "groupAffiliation": "Nenhum",
+      "relatives": "Nenhum"
     },
     "images": {
-      "xs": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/xs/4-abomination.jpg",
-      "sm": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/sm/4-abomination.jpg",
-      "md": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/md/4-abomination.jpg",
-      "lg": "https://cdn.jsdelivr.net/gh/akabab/superhero-api@0.3.0/api/images/lg/4-abomination.jpg"
+      "md": "https://cdn.jsdelivr.net/gh/GustavoFelicianoBritto/NordexMultiversoDP@v1.0.0/api/images/md/4-italidense.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Sad Princess I",
+    "slug": "5-sadprincessi",
+    "powerstats": {
+      "intelligence": 70,
+      "strength": 80,
+      "speed": 60,
+      "durability": 75,
+      "power": 90,
+      "combat": 70
+    },
+    "appearance": {
+      "gender": "Feminino",
+      "race": "Humana / Desconhecido",
+      "height": [
+        "5'1",
+        "156 cm"
+      ],
+      "weight": [
+        "143 lb",
+        "65 kg"
+      ],
+      "eyeColor": "Esmeralda",
+      "hairColor": "Esmeralda"
+    },
+    "biography": {
+      "description": "Sad Princess I era uma princesa conhecida por sua bondade, mas após ser brutalmente assassinada, sua alma foi consumida por uma raiva intensa. Em seu último suspiro, seu corpo adquiriu uma coloração verde sobrenatural, refletindo o ódio que tomou conta de seu ser. Agora, ela vaga entre mundos, determinada a encontrar e se vingar do assassino que destruiu sua vida, usando seus novos poderes sombrios para caçar implacavelmente quem a traiu.",
+      "fullName": "Sad Princess I",
+      "alterEgos": "Princesa Esmeralda",
+      "aliases": [
+        "Sem aliados encontrados."
+      ],
+      "placeOfBirth": "Reino Esmeralda",
+      "firstAppearance": "Desconhecido",
+      "publisher": "Nordex Studios",
+      "alignment": "Bom / vingativa"
+    },
+    "work": {
+      "occupation": "Princesa",
+      "base": "Castelo Esmeralda"
+    },
+    "connections": {
+      "groupAffiliation": "Família Real Esmeralda",
+      "relatives": "Rainha Esmeralda (mãe, falecida), Rei Esmeralda (pai, falecido)"
+    },
+    "images": {
+      "md": "https://cdn.jsdelivr.net/gh/GustavoFelicianoBritto/NordexMultiversoDP@v1.0.0/api/images/md/5-sadprincessi.jpg"
     }
   }
 ]
