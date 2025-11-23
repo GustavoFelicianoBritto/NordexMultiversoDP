@@ -1,53 +1,9 @@
 # superhero-api
 
-Multiple universes superheroes open-source REST API
+> **Nota:** Este é um fork do projeto original para um projeto pessoal, onde todos os personagens estão sendo substituídos por personagens próprios de um universo em desenvolvimento.
 
-> original source from [superheroapi.com](http://superheroapi.com) edited, cleaned up & made available to [contribution](#contribute)
+Este projeto foi clonado de [https://github.com/akabab/superhero-api](https://github.com/akabab/superhero-api).
 
-## API
-- [documentation](api)
-- [glossary](api/glossary.md)
+> A fonte original dos dados é de [superheroapi.com](http://superheroapi.com), que foi editada, limpa e disponibilizada para [contribuição](#contribute) no repositório de `akabab`.
 
-## Builder
 
-> ! api folder is generated, it's useless editing it, check builder sources instead
-
-#### Clone project
-```
-git clone https://github.com/akabab/superhero-api.git
-cd superhero-api
-```
-
-#### Install dependencies
-```
-npm install
-```
-
-#### Build API
-```
-npm run build
-```
-
-#### Release a new version
-
-Edit package.json version then run `release` script
-```
-npm run release
-```
-
-## Contribute
-
-You can contribute by:
-- add new or edit images of heroes in the [`builder/sources/images`](https://github.com/akabab/superhero-api/tree/master/builder/sources/images) folder
-- submit `powerstats` values for heroes with `null` ones
-- suggest new heroes with a complete JSON object
-- ..
-
-Check the [Care Center](api/carecenter.md) for needed contributions
-
-**Fork & PR** 
-
----
-
-#### Message for original owners from TwentyEight10
-Contact me :)
