@@ -248,5 +248,308 @@
     "images": {
       "md": "https://cdn.jsdelivr.net/gh/GustavoFelicianoBritto/NordexMultiversoDP@v1.0.0/api/images/md/5-sadprincessi.jpg"
     }
+  },
+  {
+    "id": 6,
+    "name": "Sad Princess II",
+    "slug": "6-sadprincessii",
+    "powerstats": {
+      "intelligence": 80,
+      "strength": 120,
+      "speed": 90,
+      "durability": 110,
+      "power": 150,
+      "combat": 100
+    },
+    "appearance": {
+      "gender": "Feminino",
+      "race": "Desconhecido",
+      "height": [
+        "5'1",
+        "156 cm"
+      ],
+      "weight": [
+        "143 lb",
+        "65 kg"
+      ],
+      "eyeColor": "Sem cor",
+      "hairColor": "Sem cabelo"
+    },
+    "biography": {
+      "description": "Após vagar entre mundos em busca de vingança, Sad Princess I foi consumida por uma tristeza profunda que se sobrepôs à sua raiva. Sucumbida por esse sofrimento, sua forma se deformou ainda mais, perdendo qualquer traço de humanidade. Agora, como Sad Princess II, ela é uma entidade espectral marcada pela dor e pelo vazio, incapaz de sentir compaixão ou esperança. Sua presença inspira medo e melancolia, e sua existência se resume a um lamento incessante, assombrando todos que cruzam seu caminho.",
+      "fullName": "Sad Princess II",
+      "alterEgos": "Princesa Esmeralda",
+      "aliases": [
+        "Corvineo."
+      ],
+      "placeOfBirth": "Reino Esmeralda",
+      "firstAppearance": "Desconhecido",
+      "publisher": "Nordex Studios",
+      "alignment": "Má / vingativa"
+    },
+    "work": {
+      "occupation": "Princesa",
+      "base": "Castelo Esmeralda"
+    },
+    "connections": {
+      "groupAffiliation": "Família Real Esmeralda",
+      "relatives": "Rainha Esmeralda (mãe, falecida), Rei Esmeralda (pai, falecido)"
+    },
+    "images": {
+      "md": "https://cdn.jsdelivr.net/gh/GustavoFelicianoBritto/NordexMultiversoDP@v1.0.0/api/images/md/6-sadprincessii.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Diurno",
+    "slug": "7-diurno",
+    "powerstats": {
+      "intelligence": 95,
+      "strength": 110,
+      "speed": 85,
+      "durability": 100,
+      "power": 120,
+      "combat": 90
+    },
+    "appearance": {
+      "gender": "Neutro",
+      "race": "Vampiro",
+      "height": [
+        "Variado",
+        "Variado"
+      ],
+      "weight": [
+        "Variado",
+        "Variado"
+      ],
+      "eyeColor": "Sem cor",
+      "hairColor": "Sem cabelo"
+    },
+    "biography": {
+      "description": "Diurno é um vampiro singular, capaz de caminhar sob a luz do sol graças à sua pele quase totalmente transparente, tornando-o quase invisível aos olhos humanos. Ele vaga silenciosamente pelas ruas durante o dia, evitando confrontos diretos e preferindo alimentar-se do sangue derramado no chão após brigas e acidentes. Sua existência é marcada pelo anonimato e pela discrição, sendo uma presença fantasmagórica que poucos percebem, mas que observa tudo das sombras claras do cotidiano.",
+      "fullName": "Vampiro Diurno",
+      "alterEgos": "Não possui alter egos.",
+      "aliases": [
+        "Vampiros Diurnos"
+      ],
+      "placeOfBirth": "Desconhecido",
+      "firstAppearance": "Desconhecido",
+      "publisher": "Nordex Studios - Universo fantasia",
+      "alignment": "Neutro / mal / sobrevivente"
+    },
+    "work": {
+      "occupation": "Desconhecido",
+      "base": "Ruas da cidade"
+    },
+    "connections": {
+      "groupAffiliation": "Vampiros",
+      "relatives": "Parentes vampiros desconhecidos"
+    },
+    "images": {
+      "md": "https://cdn.jsdelivr.net/gh/GustavoFelicianoBritto/NordexMultiversoDP@v1.0.0/api/images/md/7-diurno.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Astolfo",
+    "slug": "8-astolfo",
+    "powerstats": {
+      "intelligence": 180,
+      "strength": 60,
+      "speed": 70,
+      "durability": 80,
+      "power": 200,
+      "combat": 40
+    },
+    "appearance": {
+      "gender": "Masculino",
+      "race": "Humano",
+      "height": [
+        "5'6",
+        "168 cm"
+      ],
+      "weight": [
+        "110 lb",
+        "50 kg"
+      ],
+      "eyeColor": "Preto",
+      "hairColor": "Branco"
+    },
+    "biography": {
+      "description": "Astolfo é um cientista excêntrico e genial da cidade de Vila Bela, conhecido por suas invenções mirabolantes e experimentos ousados. Em 2090, durante um teste em seu laboratório, Astolfo acidentalmente abriu uma fenda no espaço-tempo, trazendo a Era do Gelo de volta ao mundo moderno e mergulhando a humanidade em um inverno interminável. Determinado a corrigir seu erro, ele constrói uma máquina do tempo improvisada e embarca em uma jornada por diferentes épocas históricas, participando de eventos marcantes e enfrentando desafios inesperados enquanto busca restaurar o equilíbrio do planeta. Sua inteligência fora do comum é acompanhada por um senso de humor peculiar e uma criatividade sem limites, tornando-o uma figura lendária tanto no passado quanto no futuro.",
+      "fullName": "Cientista Astolfo",
+      "alterEgos": "Astolfo Alves.",
+      "aliases": [
+        "Não possui aliados."
+      ],
+      "placeOfBirth": "Vila bela",
+      "firstAppearance": "Desconhecido",
+      "publisher": "Nordex Studios - Universo fantasia",
+      "alignment": "Bom"
+    },
+    "work": {
+      "occupation": "Cientista",
+      "base": "Base operacional no topo do bairro do pôr do sol, Vila Bela"
+    },
+    "connections": {
+      "groupAffiliation": "Viajantes do tempo",
+      "relatives": "Não possui parentes conhecidos"
+    },
+    "images": {
+      "md": "https://cdn.jsdelivr.net/gh/GustavoFelicianoBritto/NordexMultiversoDP@v1.0.0/api/images/md/8-astolfo.jpg"
+    }
+  }
+  ,
+  {
+    "id": 9,
+    "name": "Brintski",
+    "slug": "9-brintski",
+    "powerstats": {
+      "intelligence": 75,
+      "strength": 35,
+      "speed": 40,
+      "durability": 30,
+      "power": 20,
+      "combat": 15
+    },
+    "appearance": {
+      "gender": "Variado",
+      "race": "Brintski",
+      "height": [
+        "1'11",
+        "60 cm"
+      ],
+      "weight": [
+        "17 lb",
+        "7.7 kg"
+      ],
+      "eyeColor": "Variado",
+      "hairColor": "Variado"
+    },
+    "biography": {
+      "description": "Brintski é uma criatura diminuta e travessa, semelhante a um duende, que trabalha nas papelarias da vibrante cidade dos Corais. Ágil e habilidoso com papéis, tintas e pequenos objetos, Brintski é conhecido por sua criatividade e dedicação ao ofício, ajudando a criar desde cadernos mágicos até convites encantados. Apesar de seu espírito alegre, carrega um medo extremo de lobisomens, resultado de um passado trágico em que sua família foi atacada por essas criaturas durante uma noite de lua cheia. Desde então, Brintski evita sair após o anoitecer e sempre mantém amuletos de proteção próximos, tornando-se uma figura querida, porém cautelosa, entre os habitantes da cidade.",
+      "fullName": "Brintski",
+      "alterEgos": "Não possui alter egos.",
+      "aliases": [
+        "Não possui aliados."
+      ],
+      "placeOfBirth": "Cidade dos Corais",
+      "firstAppearance": "Brinstki mania",
+      "publisher": "Nordex Studios - Universo fantasia",
+      "alignment": "Bom / neutro"
+    },
+    "work": {
+      "occupation": "Trabalhador de papelaria",
+      "base": "Papelaria na cidade dos Corais"
+    },
+    "connections": {
+      "groupAffiliation": "Seres mágicos da cidade dos Corais",
+      "relatives": "Outros Brintskis (parentes)"
+    },
+    "images": {
+      "md": "https://cdn.jsdelivr.net/gh/GustavoFelicianoBritto/NordexMultiversoDP@v1.0.0/api/images/md/9-brintski.jpg"
+    }
+  }
+  ,
+  {
+    "id": 10,
+    "name": "Lobisomem Primal",
+    "slug": "10-primalwolf",
+    "powerstats": {
+      "intelligence": 90,
+      "strength": 150,
+      "speed": 200,
+      "durability": 350,
+      "power": 1000,
+      "combat": 300
+    },
+    "appearance": {
+      "gender": "Masculino",
+      "race": "Humano / Lobisomem",
+      "height": [
+        "6'7",
+        "200 cm"
+      ],
+      "weight": [
+        "331 lb",
+        "150 kg"
+      ],
+      "eyeColor": "Preto",
+      "hairColor": "Pelagem preto"
+    },
+    "biography": {
+      "description": "Ernesto era um homem simples do bairro do Alto do Pôr do Sol, cuja vida mudou tragicamente quando sua filha e outras crianças da vizinhança foram brutalmente mortas por lobos durante uma noite de lua cheia. Devastado, ele se uniu a outros pais em vigílias noturnas para proteger o bairro, mas, em uma dessas noites, foi atacado e mordido por uma das criaturas, enquanto os demais pais foram mortos. Acusado injustamente pelos assassinatos das crianças e dos próprios vizinhos, Ernesto foi amarrado pelos moradores, tomado pelo desespero e pela dor. Durante a noite, sob o olhar aterrorizado da comunidade, ele se transformou em um enorme lobisomem, revelando a verdadeira maldição que carregava.",
+      "fullName": "Lobisomem Primal",
+      "alterEgos": "Ernesto Castro",
+      "aliases": [
+        "Xamã Danata"
+      ],
+      "placeOfBirth": "Vila bela",
+      "firstAppearance": "Desconhecido",
+      "publisher": "Nordex Studios - Universo fantasia",
+      "alignment": "Bom / neutro / vingativo"
+    },
+    "work": {
+      "occupation": "Desempregado",
+      "base": "Desconhecido"
+    },
+    "connections": {
+      "groupAffiliation": "Lobisomens",
+      "relatives": "Filha, falecida"
+    },
+    "images": {
+      "md": "https://cdn.jsdelivr.net/gh/GustavoFelicianoBritto/NordexMultiversoDP@v1.0.0/api/images/md/10-primalwolf.jpg"
+    }
+  }
+  ,
+  {
+    "id": 11,
+    "name": "Invunche",
+    "slug": "11-invunche",
+    "powerstats": {
+      "intelligence": 40,
+      "strength": 120,
+      "speed": 30,
+      "durability": 200,
+      "power": 60,
+      "combat": 80
+    },
+    "appearance": {
+      "gender": "Desconhecido",
+      "race": "Humano / Invunche",
+      "height": [
+        "5'7",
+        "170 cm"
+      ],
+      "weight": [
+        "110 lb",
+        "50 kg"
+      ],
+      "eyeColor": "Preto",
+      "hairColor": "Sem cabelo"
+    },
+    "biography": {
+      "description": "Inspirado na lenda chilena do Invunche, esta criatura assombra a cidade dos Corais, onde atua como um temido servo dos vampiros sanguessugas. Trabalhando para esses seres, o Invunche é responsável por raptar crianças e bebês, levando-os para os vampiros que vivem escondidos sob as pontes da cidade dos Corais. Sua presença é cercada de terror e mistério, tornando-se uma figura assustadora entre os habitantes locais.",
+      "fullName": "Invunche",
+      "alterEgos": "Sem alter egos encontrados.",
+      "aliases": [
+        "Vampiros Diurnos, Servos dos vampiros sanguessugas"
+      ],
+      "placeOfBirth": "Desconhecido",
+      "firstAppearance": "Desconhecido",
+      "publisher": "Nordex Studios - Universo fantasia",
+      "alignment": "Sem consciência / mal"
+    },
+    "work": {
+      "occupation": "Desconhecido",
+      "base": "Pontes da cidade dos Corais"
+    },
+    "connections": {
+      "groupAffiliation": "Seres mágicos da cidade dos Corais",
+      "relatives": "Desconhecido"
+    },
+    "images": {
+      "md": "https://cdn.jsdelivr.net/gh/GustavoFelicianoBritto/NordexMultiversoDP@v1.0.0/api/images/md/11-invunche.jpg"
+    }
   }
 ]
